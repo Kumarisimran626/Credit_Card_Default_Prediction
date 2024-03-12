@@ -1,3 +1,5 @@
+![image](https://github.com/Kumarisimran626/Credit_Card_Default_Prediction/assets/120626634/b06068c9-0869-484b-b80c-4f63c901579a)
+
 # Credit_Card_Default_Prediction
 📋 Problem Statement
 Predicting whether a customer will default on his/her credit card
@@ -6,7 +8,7 @@ This project is aimed at predicting the case of customers default payments in Ta
 Data Description
 This research employed a binary variable, default payment (Yes = 1, No = 0), as the response variable. This study reviewed the literature and used the following 23 variables as explanatory variables:
 
-X1: Amount of the given credit (NT dollar): it includes both the individual consumer credit and his/her family (supplementary) credit.
+X1: Amount of the given credit (NT dollar): it includes bh the individual consumer credit and his/her family (supplementary) credit.
 
 X2: Gender (1 = male; 2 = female).
 
